@@ -1,0 +1,52 @@
+[
+  {
+    "id": "a6bb-cd6d",
+    "title": "Jungle Cruise",
+    "genre": "Adventure",
+    "director": "Jaume Collet-Serra",
+    "year": 2021,
+    "imageURL": "/static/img/jungle-cruise.jpeg",
+    "rating": 3,
+    "description": "Dreaming about saving countless lives and having another adventure, the feisty English feminist and doctor of botany, Dr Lily Houghton, embarks on a peril-laden mission to change the world. Along with her fashionable brother, MacGregor, Dr Houghton enlists the help of the arrogant, wisecracking riverboat skipper, Captain Frank Wolff, to guide them through the serpentine Amazon River in La Quila, his swift wooden boat."
+  },
+  {
+    "id": "9393-1d16",
+    "title": "The Little Mermaid",
+    "genre": "Fantasy",
+    "director": "Ron Clements",
+    "year": 1989,
+    "imageURL": "/static/img/the-little-mermaid.jpg",
+    "rating": 3,
+    "description": "The youngest of King Triton's daughters, Ariel is a beautiful and spirited young mermaid with a thirst for adventure. Longing to find out more about the world beyond the sea, Ariel visits the surface and falls for the dashing Prince Eric. Following her heart, she makes a deal with the evil sea witch, Ursula, to experience life on land. "
+  },
+  {
+    "id": "a915-6fea",
+    "title": "Home Alone",
+    "genre": "Comedy",
+    "director": "Chris Columbus",
+    "year": 1990,
+    "imageURL": "/static/img/home-alone.jpeg",
+    "rating": 4,
+    "description": "The McCallister family is preparing for a vacation in Paris, France. But the youngest in the family, Kevin, got into a scuffle with his older brother Buzz and was sent to his room, which is on the third floor of his house. Then, the next morning, while the rest of the family was in a rush to make it to the airport on time, they completely forgot about Kevin, who now has the house all to himself."
+  },
+  {
+    "id": "a2b2-2bd9",
+    "title": "Dumb and Dumber",
+    "genre": "Comedy",
+    "director": "Peter Farrelly, Bobby Farrelly",
+    "year": 1994,
+    "imageURL": "/static/img/dumb-and-dumber.jpg",
+    "rating": 4,
+    "description": "Two dim-witted friends, Lloyd and Harry, embark on a cross-country road trip to return a lost briefcase to its owner, Mary Swanson. Along the way, they encounter various misadventures and eccentric characters."
+  },
+  {
+    "id": "142b-4423",
+    "title": "Zootopia",
+    "genre": "Animation, Comedy, Adventure",
+    "director": "Byron Howard, Rich Moore, Jared Bush",
+    "year": 2016,
+    "imageURL": "/static/img/zootopia.jpg",
+    "rating": 4,
+    "description": "In the city of Zootopia, a rookie bunny cop teams up with a cynical con artist fox to uncover a conspiracy that threatens the harmony between predator and prey animals. As they delve deeper into the mystery, they discover that things are not as they seem in this vibrant and diverse metropolis."
+  }
+]
